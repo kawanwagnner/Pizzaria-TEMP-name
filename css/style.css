@@ -10884,6 +10884,7 @@ h5,
   position: relative;
   height: 750px;
   z-index: 0;
+  overflow-y: hidden;
 }
 
 .owl-carousel.home-slider .slider-item {
